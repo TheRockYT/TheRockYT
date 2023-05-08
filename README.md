@@ -29,9 +29,9 @@ You can find more information about me and my projects on my website [www.theroc
 
 ## My Stats 📊
 
-![TheRockYT's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheRockYT&show_icons=true&theme=transparent&hide=contribs&count_private=true)
+![TheRockYT's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheRockYT&show_icons=true&theme=transparent&hide=contribs&count_private=true&hide_border=true&hide_rank=true)
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheRockYT&show_icons=true&theme=transparent&hide=contribs&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheRockYT&show_icons=true&theme=transparent&hide=contribs&count_private=true&hide_border=true&hide_rank=true)
 
 ## Contact Me 📧
 
