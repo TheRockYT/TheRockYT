@@ -6,10 +6,11 @@ I'm a developer who likes to create tools and plugins for various platforms. I m
 
 Here are some of the projects I'm working on or have worked on:
 
-- [ShutUpPC](https://github.com/TheRockYT/ShutUpPC): A tool to start computer remotely using Wake-on-LAN.
-- [AdvancedFind](https://github.com/TheRockYT/AdvancedFind): A plugin that allows you to search for players on your bungeecord network.
-- [CMOTD](https://github.com/TheRockYT/CMOTD): A motd plugin with maintenance system for BungeeCord.
-- [CommandServerConnect](https://github.com/TheRockYT/CommandServerConnect): A plugin that lets you connect to other servers with commands.
+- [ShutUpPC](https://www.therockyt.com/shutuppc): A tool to start computer remotely using Wake-on-LAN.
+- [Sync](https://www.therockyt.com/sync): A tool to sync playerdata between spigot servers.
+- [AdvancedFind](https://www.therockyt.com/advancedfind): A plugin that allows you to search for players on your bungeecord network.
+- [CMOTD](https://www.therockyt.com/cmotd): A motd plugin with maintenance system for BungeeCord.
+- [CommandServerConnect](https://www.therockyt.com/commandserverconnect): A plugin that lets you connect to other servers with commands.
 - [www.therockyt.com](https://github.com/TheRockYT/www.therockyt.com): My personal website hosted on Vercel.
 
 ## My Website 🌐
