@@ -39,3 +39,19 @@ You can find more information about me and my projects on my website [www.theroc
 You can reach me by email at mail@therockyt.com.
 
 I hope you like my work and feel free to follow me or star my repositories. Thank you! 😊
+
+<style>
+    h1 {
+  display: inline-block; /* Allows the width to be based on the content */
+  overflow: hidden; /* Ensures the text is not visible */
+  border-right: .15em solid orange; /* Creates the typewriter cursor effect */
+  white-space: nowrap; /* Prevents the text from wrapping */
+  animation: typing 5s steps(50, end) forwards, blink .5s step-end infinite; /* Defines the animation */
+}
+
+@keyframes typing {
+  from { width: 0 } /* Starts with no width */
+  to { width: 100% } /* Ends with full width */
+  100% { border-right: none; } /* Hides the cursor after the animation is completed */
+}
+</style>
