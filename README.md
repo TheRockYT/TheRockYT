@@ -39,3 +39,23 @@ You can find more information about me and my projects on my website [www.theroc
 You can reach me by email at mail@therockyt.com.
 
 I hope you like my work and feel free to follow me or star my repositories. Thank you! 😊
+
+<style>
+  /* Animate the header */
+  h1 {
+    animation: pulse 1s;
+  }
+
+  /* Define the animation */
+  @keyframes pulse {
+    0% {
+      transform: scale(1);
+    }
+    50% {
+      transform: scale(1.05);
+    }
+    100% {
+      transform: scale(1);
+    }
+  }
+</style>
