@@ -24,7 +24,7 @@ You can find more information about me and my projects on my website [www.theroc
 | Programming Languages | Kotlin, Java, JavaScript, TypeScript, HTML, CSS, PHP, SQL, CQL, C++, C#       |
 | Frameworks            | Node.js, Express.js, Next.js                                                  |
 | Tools                 | IntelliJ IDEA, Visual Studio Code, Visual Studio, Git, GitHub, Docker, Vercel |
-| Databases             | StyllaDB/Cassandra, MariaDB/MySQL                                             |
+| Databases             | ScyllaDB/Cassandra, MariaDB/MySQL                                             |
 | Languages             | English, German                                                               |
 | OS                    | Windows, Ubuntu, Debian                                                       |
 
