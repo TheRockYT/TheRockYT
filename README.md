@@ -1,4 +1,4 @@
-# Hi, I'm TheRockYT 👋
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&vCenter=true&width=435&lines=Hi%2C+I'm+TheRockYT+%F0%9F%91%8B;Welcome+to+my+profile.)](https://git.io/typing-svg)
 
 I'm a developer who likes to create tools and plugins for various platforms. I mainly use Kotlin, Java and TypeScript, but I'm always eager to learn new things.
 
@@ -24,7 +24,7 @@ You can find more information about me and my projects on my website [www.theroc
 | Programming Languages | Kotlin, Java, JavaScript, TypeScript, HTML, CSS, PHP, SQL, CQL, C++, C#       |
 | Frameworks            | Node.js, Express.js, Next.js                                                  |
 | Tools                 | IntelliJ IDEA, Visual Studio Code, Visual Studio, Git, GitHub, Docker, Vercel |
-| Databases             | StyllaDB/Cassandra, MariaDB/MySQL                                             |
+| Databases             | ScyllaDB/Cassandra, MariaDB/MySQL                                             |
 | Languages             | English, German                                                               |
 | OS                    | Windows, Ubuntu, Debian                                                       |
 
