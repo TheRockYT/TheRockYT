@@ -19,14 +19,14 @@ You can find more information about me and my projects on my website [www.theroc
 
 ## My Skills 🛠️
 
-| Key                   | Value                                                                         |
-| --------------------- | ----------------------------------------------------------------------------- |
-| Programming Languages | Kotlin, Java, JavaScript, TypeScript, HTML, CSS, PHP, SQL, CQL, C++, C#       |
-| Frameworks            | Node.js, Express.js, Next.js                                                  |
-| Tools                 | IntelliJ IDEA, Visual Studio Code, Visual Studio, Git, GitHub, Docker, Vercel |
-| Databases             | ScyllaDB/Cassandra, MariaDB/MySQL                                             |
-| Languages             | English, German                                                               |
-| OS                    | Windows, Ubuntu, Debian                                                       |
+| Key                   | Value                                                                                                                                                                                                                                                                                                                                                                                     |
+| --------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Programming Languages | ![kotlinlang.org](https://www.google.com/s2/favicons?domain=kotlinlang.org)Kotlin, ![www.java.com](https://www.google.com/s2/favicons?domain=www.java.com)Java, JavaScript, ![www.typescriptlang.org](https://www.google.com/s2/favicons?domain=www.typescriptlang.org)TypeScript, HTML, CSS, ![www.php.net](https://www.google.com/s2/favicons?domain=www.php.net)PHP, SQL, CQL, C++, C# |
+| Frameworks            | Node.js, Express.js, Next.js                                                                                                                                                                                                                                                                                                                                                              |
+| Tools                 | IntelliJ IDEA, Visual Studio Code, Visual Studio, Git, GitHub, Docker, Vercel                                                                                                                                                                                                                                                                                                             |
+| Databases             | ScyllaDB/Cassandra, MariaDB/MySQL                                                                                                                                                                                                                                                                                                                                                         |
+| Languages             | English, German                                                                                                                                                                                                                                                                                                                                                                           |
+| OS                    | Windows, Ubuntu, Debian                                                                                                                                                                                                                                                                                                                                                                   |
 
 ## My Stats 📊
 
