@@ -37,7 +37,7 @@ You can find more information about me and my projects on my website [www.theroc
 
 ## Contact Me 📧
 
-You can reach me by email at mail@therockyt.com.
+[![mail@therockyt.com](https://img.shields.io/badge/Email-mail%40therockyt.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mail@therockyt.com)
 
 ## Social Media 🌍
 
