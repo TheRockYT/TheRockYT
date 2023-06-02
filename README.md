@@ -49,4 +49,6 @@ You can find more information about me and my projects on my website [www.theroc
 
 [![stackoverflow.com](https://img.shields.io/badge/StackOverflow-TheRockYT-orange?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/21928259)
 
+[![leetcode.com](https://img.shields.io/badge/LeetCode-TheRockYT-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/TheRockYT)
+
 I hope you like my work and feel free to follow me or star my repositories. Thank you! 😊
