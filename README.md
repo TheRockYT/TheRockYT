@@ -11,7 +11,7 @@ Here are some of the projects I'm working on or have worked on:
 - [AdvancedFind](https://www.therockyt.com/advancedfind): A plugin that allows you to search for players on your bungeecord network.
 - [CMOTD](https://www.therockyt.com/cmotd): A motd plugin with maintenance system for BungeeCord.
 - [CommandServerConnect](https://www.therockyt.com/commandserverconnect): A plugin that lets you connect to other servers with commands.
-- [www.therockyt.com](https://github.com/TheRockYT/www.therockyt.com): My personal website hosted on Vercel.
+- [www.therockyt.com](https://www.therockyt.com): My personal website hosted on Vercel.
 
 ## My Website 🌐
 
@@ -31,9 +31,9 @@ You can find more information about me and my projects on my website [www.theroc
 
 ## My Stats 📊
 
-![TheRockYT's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheRockYT&show_icons=true&theme=transparent&hide=contribs&count_private=true&hide_border=true&hide_rank=true)
+[![TheRockYT's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheRockYT&show_icons=true&theme=transparent&hide=contribs&count_private=true&hide_border=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheRockYT&show_icons=true&theme=transparent&hide=contribs&count_private=true&hide_border=true&hide_rank=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheRockYT&show_icons=true&theme=transparent&hide=contribs&count_private=true&hide_border=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=TheRockYT&theme=transparent&hide_border=true)](https://git.io/streak-stats)
 
