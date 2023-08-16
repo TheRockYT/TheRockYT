@@ -54,3 +54,11 @@ You can find more information about me and my projects on my website [www.theroc
 [![leetcode.com](https://img.shields.io/badge/LeetCode-TheRockYT-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/TheRockYT)
 
 I hope you like my work and feel free to follow me or star my repositories. Thank you! 😊
+
+```
+ _____  _          ___           _   __   __ _____ 
+|_   _|| |_   ___ | _ \ ___  __ | |__\ \ / /|_   _|
+  | |  |   \ / -_)|   // _ \/ _|| / / \   /   | |  
+  |_|  |_||_|\___||_|_\\___/\__||_\_\  |_|    |_|  
+
+```
