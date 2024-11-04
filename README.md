@@ -37,6 +37,10 @@ You can find more information about me and my projects on my website [www.theroc
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=TheRockYT&theme=transparent&hide_border=true)](https://git.io/streak-stats)
 
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/TheRockYT" width="1000" height="120"/>
+</a>
+
 ## Contact Me 📧
 
 [![mail@therockyt.com](https://img.shields.io/badge/Email-mail%40therockyt.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mail@therockyt.com)
