@@ -39,11 +39,11 @@ You can find more information about me and my projects on my website [www.theroc
 
 
 <a href="https://github.com/devxb/gitanimals">
-  <img
-    src="https://render.gitanimals.org/lines/TheRockYT"
-    width="600"
-    height="300"
-  />
+<img
+  src="https://render.gitanimals.org/farms/TheRockYT"
+  width="600"
+  height="300"
+/>
 </a>
 
 ## Contact Me 📧
