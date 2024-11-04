@@ -38,7 +38,7 @@ You can find more information about me and my projects on my website [www.theroc
 [![GitHub Streak](https://streak-stats.demolab.com?user=TheRockYT&theme=transparent&hide_border=true)](https://git.io/streak-stats)
 
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/TheRockYT" width="1000" height="120"/>
+  <img src="https://render.gitanimals.org/lines/TheRockYT" width="600" height="300"/>
 </a>
 
 ## Contact Me 📧
